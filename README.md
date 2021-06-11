@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
-✉️ Contatos ⤵️\
+✉️ Contatos ⤵️
 
 <a href="https://www.linkedin.com/in/vinicius-marcilli-76a20b19a/">
   <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
