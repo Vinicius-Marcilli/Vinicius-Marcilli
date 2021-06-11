@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ⚡ Vinicius Marcilli\
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
-✉️ Contatos ⤵️ \\
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+✉️ Contatos ⤵️ \
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>\
 <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
