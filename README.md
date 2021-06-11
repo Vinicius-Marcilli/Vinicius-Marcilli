@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:vini12marcilli@hotmail.com">
-  <img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/>
+  <img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
