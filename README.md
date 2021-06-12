@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/67004966/121761166-9f6d9a00-cb04-11eb-8cc4-64a1302fc28d.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://user-images.githubusercontent.com/67004966/121761166-9f6d9a00-cb04-11eb-8cc4-64a1302fc28d.png" min-width="100px" max-width="100px" width="100px" align="right">
 
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
