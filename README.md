@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.clipartmax.com/png/middle/276-2766537_coding-flat-icon-with-long-shadow-on-blue-circle-background-coding-flat.png" min-width="200px" max width="200px" width="200px" align="right">
+<img src="https://www.clipartmax.com/png/middle/153-1532142_code-coding-css-html-java-layout-php-programming-static-website-icon-png.png" min-width="200px" max width="200px" width="200px" align="right">
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
