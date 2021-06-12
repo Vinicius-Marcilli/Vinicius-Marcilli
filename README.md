@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://c0.klipartz.com/pngpicture/222/966/sticker-png-python-syntax-and-semantics-programming-language-python-syntax-and-semantics-source-code-python-s-hd-blue-text-computer-computer-programming-number-thumbnail.png" min-width="400px" max width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.clipartmax.com/png/middle/276-2766537_coding-flat-icon-with-long-shadow-on-blue-circle-background-coding-flat.png" min-width="400px" max width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
