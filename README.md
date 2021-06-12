@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
+💼 Suporte Técnico | InnManager - Software para Hotelaria
 ✉️ Contatos ⤵️
 
 <a href="https://www.linkedin.com/in/vinicius-marcilli-76a20b19a/">
