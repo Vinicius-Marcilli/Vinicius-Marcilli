@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
 ✉️ Contatos ⤵️
 
-<a href="https://www.linkedin.com/in/vinicius-marcilli-76a20b19a/">
-  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  
-<a href="https://api.whatsapp.com/send?phone=5519995270842&text=Olá Vinicius!">  
-  <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<p aling = 'center'>
+  <a href="https://www.linkedin.com/in/vinicius-marcilli-76a20b19a/">
+    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://api.whatsapp.com/send?phone=5519995270842&text=Olá Vinicius!">  
-  <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://api.whatsapp.com/send?phone=5519995270842&text=Olá Vinicius!">  
+    <img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=5519995270842&text=Olá Vinicius!">  
+    <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
