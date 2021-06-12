@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.clipartmax.com/png/middle/276-2766537_coding-flat-icon-with-long-shadow-on-blue-circle-background-coding-flat.png" min-width="400px" max width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.clipartmax.com/png/middle/276-2766537_coding-flat-icon-with-long-shadow-on-blue-circle-background-coding-flat.png" min-width="400px" max width="400px" width="400px" align="right">
 
 💻 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo\
 📚 Estudante de Sistemas de Informação | UNIFEI - Universidade Federal de Itajubá\
